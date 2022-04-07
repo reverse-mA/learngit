@@ -1,2 +1,2 @@
-y = input()
-print(y)
+x = input()
+print(x)
